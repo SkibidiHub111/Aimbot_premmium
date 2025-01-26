@@ -7,7 +7,7 @@ loadstring(game:HttpGet(("https://raw.githubusercontent.com/VanThanhIOS/OniiChan
          },
         Key = {
         KeySystem = true,
-        Title = "[ Free ] By Bao",
+        Title = "[ Premium ] By Bao",
         Description = "Mua Premium Để sài vv",
         KeyLink = "",
         Keys = {"BdoeKey"},
